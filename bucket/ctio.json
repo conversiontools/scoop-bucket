@@ -1,10 +1,10 @@
 {
-    "version": "0.3.3",
+    "version": "0.3.4",
     "description": "Composable CLI for the Conversion Tools API",
     "homepage": "https://github.com/conversiontools/ctio",
     "license": "MIT",
-    "url": "https://github.com/conversiontools/ctio/releases/download/v0.3.3/ctio-windows-x64.exe#/ctio.exe",
-    "hash": "fdef7ff6ebf27d9d65c4b38045eb97f98fbd304a3a8438418bde0ba96527f599",
+    "url": "https://github.com/conversiontools/ctio/releases/download/v0.3.4/ctio-windows-x64.exe#/ctio.exe",
+    "hash": "1299e99c65758b9fdb1ab860f891b7256b62686a62ef20a76a31073c467e9e2b",
     "bin": "ctio.exe",
     "checkver": "github",
     "autoupdate": {
